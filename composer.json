@@ -1,0 +1,39 @@
+{
+  "name": "fransallen/flarum-ext-indonesian",
+  "type": "flarum-extension",
+  "description": "Indonesian language pack.",
+  "keywords": ["locale"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Frans Allen",
+      "email": "me@fransallen.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/fransallen/flarum-ext-indonesian/issues",
+    "source": "https://github.com/fransallen/flarum-ext-indonesian",
+    "docs": "https://www.fransallen.com/tech/flarum-indonesia"
+  },
+  "require": {
+    "flarum/core": "^0.1.0-beta.6"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    },
+    "flarum-extension": {
+      "title": "Indonesian",
+      "icon": {
+        "image": "icon.svg",
+        "backgroundColor": "#00247d",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center"
+      }
+    },
+    "flarum-locale": {
+      "code": "id",
+      "title": "Indonesian"
+    }
+  }
+}
