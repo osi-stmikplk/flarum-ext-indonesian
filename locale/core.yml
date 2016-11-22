@@ -23,7 +23,7 @@ core:
       #colors_heading: Colors
       colors_heading: Warna
       #colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
-      colors_text: "Tentukan dua warna untuk tema forum Anda. Warna pertama untuk highlight, dan yang kedua untuk latar belakang."
+      colors_text: "Tentukan dua warna untuk tema forum Anda. Warna pertama untuk pokok, dan yang kedua untuk latar belakang."
       #custom_header_heading: Custom Header
       custom_header_heading: Header Kustom
       #custom_header_text: "Add HTML to be displayed at the very top of the page, above Flarum's own header."
@@ -58,14 +58,14 @@ core:
       #home_page_heading: Home Page
       home_page_heading: Halaman Utama
       #home_page_text: "Choose the page which users will first see when they visit your forum. If entering a custom value, use the path relative to the forum root."
-      home_page_text: "Tentukan halaman yang akan ditampilkan pada halamn utama."
+      home_page_text: "Tentukan halaman yang akan ditampilkan pada halaman utama."
       #saved_message: Your changes were saved.
       saved_message: Perubahan berhasil disimpan.
       submit_button: => core.ref.save_changes
       #welcome_banner_heading: Welcome Banner
       welcome_banner_heading: Pesan Selamat Datang
       #welcome_banner_text: Configure the text that displays in the banner on the All Discussions page. Use this to welcome guests to your forum.
-      welcome_banner_text: Pesan selamat datang akan ditampilkan dalam bentuk banner. Gunakan ini untuk menyambut tamu yang datang ke forum Anda.
+      welcome_banner_text: Pesan selamat datang akan ditampilkan dalam bentuk spanduk. Gunakan ini untuk menyambut tamu yang datang ke forum Anda.
 
     # These translations are used in the Dashboard page.
     dashboard:
@@ -76,11 +76,11 @@ core:
       #extension_text: "Interested in developing extensions? Read the <a>Extension docs</a>."
       extension_text: "Tertarik untuk membuat ekstensi? Bacalah <a>Dokumen Ekstensi</a>."
       #features_text: "Got an idea to improve a feature? Tell us about it under the <a>Features tag</a>."
-      features_text: "Punya ide tentang fitur baru? Beritahu kami di halaman <a>Fitur</a>."
+      features_text: "Memiliki ide tentang fitur baru? Beritahu kami di halaman <a>Fitur</a>."
       #support_text: "Found a bug? Please report it in our forum, under the <a>Support tag</a>."
-      support_text: "Menemukan bug/kesalahan? Mohon laporkan di forum kami, pada halaman <a>Support tag</a>."
+      support_text: "Menemukan bug/kesalahan? Mohon laporkan di forum kami, pada halaman <a>Bantuan</a>."
       #troubleshooting_text: "Having problems? Follow the instructions in the <a>Troubleshooting docs</a>."
-      troubleshooting_text: "Memiliki masalah? Ikuti instruksi pada halaman <a>Troubleshooting docs</a>."
+      troubleshooting_text: "Memiliki masalah? Ikuti instruksi pada halaman dokumen <a>Pemecahan masalah</a>."
       #version_text: "Thanks for trying out Flarum! You are running version {version}."
       version_text: "Terima kasih sudah menggunakan Flarum {version}."
       #welcome_text: "Welcome to Flarum Beta!"
