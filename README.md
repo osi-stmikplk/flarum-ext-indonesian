@@ -30,7 +30,7 @@ Read how to contribute to Flarum Indonesian on contributing file: [CONTRIBUTING]
 
 Copyright 2016 Frans Allen
 
-Some of the code I took from `github.com/realodix/flarum-ext-indonesian` such as icons and some translations, I change it for the better. See https://github.com/realodix/flarum-ext-indonesian for more details.
+Some of the translations I took from `github.com/realodix/flarum-ext-indonesian` I change it and make it more better. See [flarum-ext-indonesian](https://github.com/realodix/flarum-ext-indonesian) by @realodix for more details.
 
 ### License
 

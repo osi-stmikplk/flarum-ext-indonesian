@@ -28,7 +28,7 @@ Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia ini pada 
 
 Hak Cipta 2016 Frans Allen
 
-Beberapa kode saya ambil dari `github.com/realodix/flarum-ext-indonesian` seperti ikon dan beberapa terjemahan, saya merubahnya menjadi lebih baik. Lihat https://github.com/realodix/flarum-ext-indonesian untuk lebih lengkapnya.
+Beberapa terjemahan saya ambil dari `github.com/realodix/flarum-ext-indonesian`, saya merubahnya menjadi lebih baik. Lihat [flarum-ext-indonesian](https://github.com/realodix/flarum-ext-indonesian) oleh @realodix untuk lebih lengkapnya.
 
 ### Lisensi
 
