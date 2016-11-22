@@ -12,6 +12,14 @@ Paket Bahasa Indonesia untuk Flarum, semua sudah diterjemahkan kedalam Bahasa In
 composer require fransallen/flarum-ext-indonesian dev-master
 ```
 
+### Penggunaan
+
+**Flarum > Admin > Extensions**
+
+Aktifkan Ekstensi **Indonesian**
+
+![Indonesian](https://cdn.fransallen.com/static/uploads/2016/11/d1e7b5b2a9788c432f865725cb814c7c.png)
+
 ### Berkontribusi
 
 Baca cara berkontribusi dalam menerjemahkan Flarum ke Bahasa Indonesia ini pada berkas kontribusi: [CONTRIBUTING](https://github.com/fransallen/flarum-ext-indonesian/blob/master/CONTRIBUTING.md)

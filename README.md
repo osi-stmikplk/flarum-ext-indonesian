@@ -20,7 +20,7 @@ composer require fransallen/flarum-ext-indonesian dev-master
 
 Activate the **Indonesian**
 
-![Indonesian](https://cdn.fransallen.com/static/uploads/2016/11/d1e7b5b2a9788c432f865725cb814c7c-300x232.png)
+![Indonesian](https://cdn.fransallen.com/static/uploads/2016/11/d1e7b5b2a9788c432f865725cb814c7c.png)
 
 ### Contributing
 
