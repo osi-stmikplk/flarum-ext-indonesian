@@ -72,7 +72,9 @@ validation:
     #array: "The :attribute may not have more than :max items."
     array: "Isian :attribute harus tidak lebih dari :max barang."
   #mimes: "The :attribute must be a file of type: :values."
-  mimes: "Isian :attribute harus dokumen berjenis: :values."
+  mimes: "Isian :attribute harus berkas berjenis: :values."
+  #mimetypes: "The :attribute must be a file of type: :values."
+  mimetypes: "Isian :attribute harus berkas berjenis: :values."
   min:
     #numeric: "The :attribute must be at least :min."
     numeric: "Isian :attribute minimal harus lebih dari :min."
@@ -121,6 +123,8 @@ validation:
   timezone: "Isian :attribute harus berupa zona waktu yang valid."
   #unique: "The :attribute has already been taken."
   unique: "Isian :attribute sudah ada sebelumnya."
+  #uploaded: "The :attribute failed to upload."
+  uploaded: ":attribute gagal diunggah."
   #url: "The :attribute format is invalid."
   url: "Format isian :attribute tidak valid."
 
