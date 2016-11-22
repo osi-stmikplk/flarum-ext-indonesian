@@ -70,7 +70,7 @@ core:
     # These translations are used in the Dashboard page.
     dashboard:
       #beta_warning_text: "This <strong>beta software</strong> is provided primarily so that you can help us test it and make it better; it should not be used in production."
-      beta_warning_text: "<strong>Software Beta</strong> ini disediakan agar Anda dapat membantu kami menguji dan membuatnya lebih baik. Kami sangat tidak menyarankan Anda menggunakannya dalam produksi."
+      beta_warning_text: "<strong>Perangkat Lunak <em>Beta</em></strong> ini disediakan agar Anda dapat membantu kami menguji dan membuatnya lebih baik. Kami sangat tidak menyarankan Anda menggunakannya dalam produksi."
       #contributing_text: "Want to look for bugs and contribute? Read the <a>Contributing docs</a>."
       contributing_text: "Ingin berkontribusi menemukan bug/kesalahan? Bacalah <a>Dokumen Kontibusi</a>."
       #extension_text: "Interested in developing extensions? Read the <a>Extension docs</a>."
